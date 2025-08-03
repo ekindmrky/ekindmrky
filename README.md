@@ -20,7 +20,7 @@ I'm a 3rd-year Computer Engineering student at Yaşar University (İzmir). I am 
 
 ## 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/ekin-demirkaya-55a320366/)
-- Email: ekindmrky62@gmail.com
+- Email: ekindemirkaya62@gmail.com
 
 ## 💡 Fun Fact
 I enjoy solving puzzles, learning new technologies, and connecting with people who are passionate about data, I like to do research!
